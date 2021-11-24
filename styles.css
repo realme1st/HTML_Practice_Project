@@ -306,6 +306,10 @@ p {
     .curriculum .row:first-child {
         margin-bottom: 24px;
     }
+
+    .curriculum .row:last-child .col-12:first-child {
+        margin-bottom: 0;
+    }
     .curriculum .section-desc {
         margin-bottom: 72px;
     }
